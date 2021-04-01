@@ -16,6 +16,8 @@ wget https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_E3.jar&x=f405053f4292
 wget https://www.curseforge.com/minecraft/mc-mods/betterfps/download/2483393/file
 # FoamFix
 wget https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod/download/3137883/file
+# Phosphor
+wget https://www.curseforge.com/minecraft/mc-mods/phosphor-forge/download/2747710/file
 echo "Done:)"
 echo "Tips to optimize game:"
 echo "Lower Down the Render Distance"
